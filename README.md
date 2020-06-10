@@ -23,9 +23,9 @@ BMI Calculator is a Body Mass Index calculator, with a beautiful designs made by
 
 Here's a GIF of how the app works:
 
-<img src="ADD_GIF_LINK" width=250>
+<img src="https://user-images.githubusercontent.com/35745973/84233182-ad7a7c00-aaa6-11ea-8255-26c5e124df02.gif" width=250>
 
-<img src="ADD_GIF_LINK" width=250>
+<img src="https://user-images.githubusercontent.com/35745973/84233177-a8b5c800-aaa6-11ea-8cda-bb5746aca5a3.gif" width=250>
 
 ## Libraries
 
