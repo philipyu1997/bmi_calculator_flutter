@@ -23,13 +23,15 @@ BMI Calculator is a Body Mass Index calculator, with a beautiful designs made by
 
 Here's a GIF of how the app works:
 
-<img src="https://user-images.githubusercontent.com/35745973/84233182-ad7a7c00-aaa6-11ea-8255-26c5e124df02.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-bmi-calculator.gif" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/84233177-a8b5c800-aaa6-11ea-8cda-bb5746aca5a3.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-bmi-calculator.gif" width=250>
 
 ## Libraries
 
+- [cupertino_icons](https://github.com/flutter/cupertino_icons) - This is an asset repo containing the default set of icon assets used by Flutter's [Cupertino widgets](https://github.com/flutter/flutter/tree/master/packages/flutter/lib/src/cupertino).
 - [font_awesome_flutter](https://github.com/fluttercommunity/font_awesome_flutter) - The Font Awesome Icon pack available as set of Flutter Icons.
+- [pedantic](https://github.com/dart-lang/pedantic) - Most of the recommended lints directly implement the guidelines set out in [Effective Dart](https://dart.dev/guides/language/effective-dart).
 
 ## Credits
 
